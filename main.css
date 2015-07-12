@@ -1,0 +1,53 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+    background-color: #FDF3E7;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#headshot {
+	width: 200px;
+	height: 200px;
+    margin: 40px 0px 0px 0px;
+    border: 10px solid #7E8F7C;
+    border-radius: 200px;
+    float: right;
+  }
+
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+#content-education {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	border-bottom: 1px solid #999;
+}
+
+#content-summary {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	border-bottom: 1px solid #999;
+}
+
+#content-experience {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	border-bottom: 1px solid #999;
+}
+
+.content-experience-title {
+	display: block;
+}
+
+.date {
+	float: right;
+}
