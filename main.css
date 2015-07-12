@@ -8,15 +8,6 @@ body {
 	margin: 40px auto 60px;
 }
 
-#headshot {
-	width: 150px;
-	height: 150px;
-    margin: 30px 0px 0px 0px;
-    border: 8px solid #7E8F7C;
-    border-radius: 150px;
-    float: right;
-  }
-
 #content-contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
@@ -25,6 +16,15 @@ body {
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
+
+#headshot {
+	width: 150px;
+	height: 150px;
+    margin: 30px 0px 0px 0px;
+    border: 8px solid #7E8F7C;
+    border-radius: 150px;
+    float: right;
+  }
 
 #content-education {
 	margin: 0 0 16px 0;
