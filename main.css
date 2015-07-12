@@ -18,11 +18,11 @@ body {
 }
 
 #headshot {
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
     margin: 40px 0px 0px 0px;
     border: 8px solid #7E8F7C;
-    border-radius: 200px;
+    border-radius: 250px;
     float: right;
   }
 
